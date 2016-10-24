@@ -4,6 +4,18 @@
 * House Maintenance
 * Lawn and Garden Maintenance
 * Notes
+双11买PP棉滤芯
+买雨衣
+户外服
 * Tasks
+** OLT-7972【OLT:PN8603-V1.8.0.8-宁夏测试mib】15分钟性能统计数据高于设定的上限门限时，未产生告警事件
+*** 告警管理模块的问题
+** OLT-7973【OLT:PN8603-V1.8.0.8-宁夏测试mib】宁夏广电测试mib中，修改15分钟性能统计告警门限后，部分能通过cli读取的设置项mib browser中未能读取
+*** 非问题，测试人员理解有误。SNMP的INDEX跟CLI显示的INDEX并不是一一对应的。
+** :TODO: V1.9.0.0问题定位
+*** OLT-7964【PN8600-V1.9.0.0-build.8751】升级OLT版本整机重启后，一些槽位板卡温度读取不到
+**** 暂时未能复现
+** 现网问题
+*** 东圃MPUB 异常
 * Vehicle Maintenance
 * Password
