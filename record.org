@@ -1,0 +1,2 @@
+* QEMU to run:
+D:\VOS>"d:\Program Files\qemu\qemu-system-x86_64.exe" -net nic,model=virtio -net tap,ifname=TAP  -drive format=raw,file=centOS_64 -boot d -m 1G
